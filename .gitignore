@@ -4,3 +4,4 @@ local_settings.py
 .restenv
 venv/
 restenv/
+.idea/
